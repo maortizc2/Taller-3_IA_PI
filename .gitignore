@@ -8,3 +8,6 @@
 /*.env
 /images.zip
 /DjangoProjectBase/openAI.env
+api_key.env
+*.env
+.env
